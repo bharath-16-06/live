@@ -1,0 +1,2 @@
+This browser window is used to keep your authentication session active.
+Please leave it open in the background and open a new window to continue.
